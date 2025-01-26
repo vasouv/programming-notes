@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f6de42a8572a90d6",
+        "id": "890593b7321c01fe",
         "type": "tabs",
         "children": [
           {
-            "id": "8141715fe7a40157",
+            "id": "7652b057987582cc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "java/Basic Problems.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Basic Problems"
+              "title": "New tab"
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "java/Basic Problems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Basic Problems"
+              "title": "Backlinks"
             }
           },
           {
@@ -162,7 +157,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8141715fe7a40157",
+  "active": "7652b057987582cc",
   "lastOpenFiles": [
     "java/Basic Problems.md",
     "java/Strategy Pattern.md",
