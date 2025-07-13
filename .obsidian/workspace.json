@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "cb307059e58cb8cb",
+        "id": "2c316608a36738b3",
         "type": "tabs",
         "children": [
           {
-            "id": "2eb7fcc6ccd92d24",
+            "id": "21f8080d1ef70ddf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "java/Spring Boot/Serve static images from filesystem.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Serve static images from filesystem"
             }
           }
         ]
@@ -90,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux Software.md",
+                "file": "java/Strategy Pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Linux Software"
+              "title": "Backlinks for Strategy Pattern"
             }
           },
           {
@@ -159,14 +163,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2eb7fcc6ccd92d24",
+  "active": "21f8080d1ef70ddf",
   "lastOpenFiles": [
-    "java/Basic Problems.md",
-    "java/IntelliJ Community - Debug Spring Boot Application.md",
-    "Linux Software.md",
+    "java/Spring Boot/Serve static images from filesystem.md",
+    "java/Spring Boot",
+    "java/Spring Boot/IntelliJ Community - Debug Spring Boot Application.md",
     "java/Strategy Pattern.md",
+    "java/Basic Problems.md",
+    "Linux Software.md",
     "README.md",
-    "java/Untitled",
     "java"
   ]
 }
