@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java/Spring Boot/Serve static images from filesystem.md",
+                "file": "sql/Calculate age from birthday.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Serve static images from filesystem"
+              "title": "Calculate age from birthday"
             }
           }
         ]
@@ -166,6 +166,8 @@
   "active": "21f8080d1ef70ddf",
   "lastOpenFiles": [
     "java/Spring Boot/Serve static images from filesystem.md",
+    "sql/Calculate age from birthday.md",
+    "sql",
     "java/Spring Boot",
     "java/Spring Boot/IntelliJ Community - Debug Spring Boot Application.md",
     "java/Strategy Pattern.md",
